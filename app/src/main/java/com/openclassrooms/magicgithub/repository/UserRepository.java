@@ -4,7 +4,7 @@ import com.openclassrooms.magicgithub.api.ApiService;
 import com.openclassrooms.magicgithub.model.User;
 
 import java.util.List;
-
+//UserRepository
 public class UserRepository {
 
     private final ApiService apiService; // TODO: A utiliser
